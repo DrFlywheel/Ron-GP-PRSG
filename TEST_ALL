@@ -1,0 +1,36 @@
+echo testing 3
+try 3 |sort|uniq -d
+echo testing 4
+try 4 |sort|uniq -d
+echo testing 5
+try 5 |sort|uniq -d
+echo testing 6
+try 6 |sort|uniq -d
+echo testing 7
+try 7 |sort|uniq -d
+echo testing 8
+try 8 |sort|uniq -d
+echo testing 9
+try 9 |sort|uniq -d
+echo testing 10
+try 10 |sort|uniq -d
+echo testing 11
+try 11 |sort|uniq -d
+echo testing 12
+try 12 |sort|uniq -d
+echo testing 13
+try 13 |sort|uniq -d
+echo testing 14
+try 14 |sort|uniq -d
+echo testing 15
+try 15 |sort|uniq -d
+echo testing 16
+try 16 |sort|uniq -d
+echo testing 17
+try 17 |sort|uniq -d
+echo testing 18
+try 18 |sort|uniq -d
+echo testing 19
+try 19 |sort|uniq -d
+echo testing 20
+try 20 |sort|uniq -d
